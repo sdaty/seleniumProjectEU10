@@ -91,5 +91,26 @@ public class a_summary {
 		// driver.findElement(By.id("asdf324")).getAttribute("name") --> hu58
 
 
+/*		-------------------DAY03----------------------
+
+		- Utility Class creating
+		- .isDisplayed()  => driver.findElement(By.name("name")).isDisplayed();
+		- cssSelector
+		- xPath
+
+		- .findElement(LOCATOR) method
+			-Locators:
+				1- ..
+				2- ..
+				3- ..
+				4- ..
+				5- ..
+				6- ..
+				7- cssSelector
+				8-
+
+		 ----------------------------------------------------
+*/
+
 	}
 }
